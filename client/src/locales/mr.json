@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "मराठी (Marathi)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "मुख्य मजकुराकडे जा",
+    "footerDisclaimer": "ही एक स्वतंत्र माहिती सेवा आहे, सरकारी वेबसाइट नाही. निकाल केवळ अंदाज आहेत; अंतिम निर्णय संबंधित सरकारी विभाग घेतो.",
+    "unverifiedTranslation": "असत्यापित भाषांतर",
+    "loading": "योजना लोड होत आहेत...",
+    "retry": "पुन्हा प्रयत्न करा",
+    "skip": "वगळा",
+    "preferNotToSay": "सांगू इच्छित नाही",
+    "all": "सर्व",
+    "central": "केंद्र सरकार",
+    "state": "राज्य सरकार",
+    "verifiedOfficial": "अधिकृत स्रोत सत्यापित",
+    "lastVerified": "शेवटची तपासणी",
+    "officialSources": "अधिकृत दुवे"
+  },
+  "nav": {
+    "home": "मुख्यपृष्ठ",
+    "discover": "शोधा",
+    "results": "निकाल",
+    "schemes": "सर्व योजना",
+    "assistant": "AI सहाय्यक",
+    "about": "माहिती",
+    "language": "भाषा"
+  },
+  "hero": {
+    "title": "सरकारी योजना शोधा. तुमचे लाभ मिळवा.",
+    "subtitle": "केंद्र आणि राज्य कल्याणकारी योजना, संभाव्य पात्रता आणि अर्जाचे टप्पे समजून घ्या — मोफत, खाजगी आणि लॉगिनशिवाय.",
+    "cta": "माझ्या योजना शोधा",
+    "secondaryCta": "सर्व योजना पहा"
+  },
+  "categories": {
+    "heading": "श्रेणीनुसार पहा",
+    "Agriculture": "कृषी",
+    "Education": "शिक्षण",
+    "Healthcare": "आरोग्य सेवा",
+    "Employment": "रोजगार",
+    "Women & Children": "महिला व बालकल्याण",
+    "Housing": "गृहनिर्माण"
+  },
+  "steps": {
+    "heading": "हे कसे कार्य करते",
+    "step1Title": "माहिती द्या",
+    "step2Title": "योजना शोधा",
+    "step3Title": "समजून अर्ज करा"
+  },
+  "discover": {
+    "title": "तुमची माहिती द्या",
+    "subtitle": "सर्व माहिती ऐच्छिक आहे. कोणताही प्रश्न वगळता येतो.",
+    "safetyNotice": "गोपनीयता सूचना: येथे कधीही आधार, पॅन, OTP किंवा बँक खाते क्रमांक टाकू नका.",
+    "stateLabel": "राज्य / केंद्रशासित प्रदेश",
+    "ageLabel": "वय (वर्षे)",
+    "genderLabel": "लिंग (ऐच्छिक)",
+    "genderFemale": "महिला",
+    "genderMale": "पुरुष",
+    "genderOther": "इतर",
+    "casteLabel": "सामाजिक प्रवर्ग",
+    "incomeLabel": "अंदाजे वार्षिक कौटुंबिक उत्पन्न",
+    "occupationLabel": "मुख्य व्यवसाय",
+    "togglesLabel": "अतिरिक्त माहिती (ऐच्छिक)",
+    "submit": "योजना शोधा",
+    "clear": "माझी उत्तरे पुसून टाका"
+  },
+  "results": {
+    "title": "तुमच्यासाठी योग्य योजना",
+    "editProfile": "माहिती बदला",
+    "browseAll": "सर्व योजना पहा",
+    "whyMatched": "ही योजना का जुळली",
+    "couldNotConfirm": "खात्री करता न आलेले मुद्दे",
+    "confidenceLikely": "संभाव्य पात्र",
+    "confidencePossible": "शक्यता आहे",
+    "confidenceCheck": "पात्रता तपासा",
+    "resetFilters": "फिल्टर रीसेट करा"
+  },
+  "schemes": {
+    "title": "सर्व सरकारी योजना",
+    "searchPlaceholder": "योजना किंवा शब्द शोधा...",
+    "showDetails": "पात्रता व टप्पे पहा",
+    "hideDetails": "तपशील लपवा"
+  },
+  "assistant": {
+    "title": "योजना सहाय्यक",
+    "privacyNote": "आधार, पॅन, OTP किंवा बँक तपशील टाकू नका.",
+    "clearChat": "चॅट साफ करा",
+    "placeholder": "पात्रता, लाभ किंवा अर्जाविषयी विचारा...",
+    "send": "पाठवा"
+  }
+}

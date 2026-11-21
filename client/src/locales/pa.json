@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "ਪੰਜਾਬੀ (Punjabi)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "ਮੁੱਖ ਸਮੱਗਰੀ 'ਤੇ ਜਾਓ",
+    "footerDisclaimer": "ਇਹ ਇੱਕ ਸੁਤੰਤਰ ਜਾਣਕਾਰੀ ਸੇਵਾ ਹੈ, ਸਰਕਾਰੀ ਵੈੱਬਸਾਈਟ ਨਹੀਂ। ਨਤੀਜੇ ਸਿਰਫ਼ ਅਨੁਮਾਨ ਹਨ; ਅੰਤਿਮ ਫ਼ੈਸਲਾ ਸਬੰਧਤ ਸਰਕਾਰੀ ਵਿਭਾਗ ਕਰਦਾ ਹੈ।",
+    "unverifiedTranslation": "ਅਪ੍ਰਮਾਣਿਤ ਅਨੁਵਾਦ",
+    "loading": "ਸਕੀਮਾਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ...",
+    "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "skip": "ਛੱਡੋ",
+    "preferNotToSay": "ਦੱਸਣਾ ਨਹੀਂ ਚਾਹੁੰਦੇ",
+    "all": "ਸਾਰੇ",
+    "central": "ਕੇਂਦਰ ਸਰਕਾਰ",
+    "state": "ਰਾਜ ਸਰਕਾਰ",
+    "verifiedOfficial": "ਅਧਿਕਾਰਤ ਸਰੋਤ ਪ੍ਰਮਾਣਿਤ",
+    "lastVerified": "ਆਖ਼ਰੀ ਜਾਂਚ",
+    "officialSources": "ਅਧਿਕਾਰਤ ਲਿੰਕ"
+  },
+  "nav": {
+    "home": "ਹੋਮ",
+    "discover": "ਖੋਜੋ",
+    "results": "ਨਤੀਜੇ",
+    "schemes": "ਸਾਰੀਆਂ ਸਕੀਮਾਂ",
+    "assistant": "AI ਸਹਾਇਕ",
+    "about": "ਬਾਰੇ",
+    "language": "ਭਾਸ਼ਾ"
+  },
+  "hero": {
+    "title": "ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਖੋਜੋ। ਆਪਣੇ ਲਾਭ ਪ੍ਰਾਪਤ ਕਰੋ।",
+    "subtitle": "ਕੇਂਦਰ ਅਤੇ ਰਾਜ ਭਲਾਈ ਸਕੀਮਾਂ, ਸੰਭਾਵਿਤ ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ ਦੇ ਕਦਮ ਜਾਣੋ — ਮੁਫ਼ਤ, ਨਿੱਜੀ ਅਤੇ ਬਿਨਾਂ ਲੌਗਇਨ।",
+    "cta": "ਮੇਰੀਆਂ ਸਕੀਮਾਂ ਖੋਜੋ",
+    "secondaryCta": "ਸਾਰੀਆਂ ਸਕੀਮਾਂ ਦੇਖੋ"
+  },
+  "categories": {
+    "heading": "ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ਦੇਖੋ",
+    "Agriculture": "ਖੇਤੀਬਾੜੀ",
+    "Education": "ਸਿੱਖਿਆ",
+    "Healthcare": "ਸਿਹਤ ਸੇਵਾਵਾਂ",
+    "Employment": "ਰੁਜ਼ਗਾਰ",
+    "Women & Children": "ਮਹਿਲਾਵਾਂ ਅਤੇ ਬੱਚੇ",
+    "Housing": "ਰਿਹਾਇਸ਼"
+  },
+  "steps": {
+    "heading": "ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ",
+    "step1Title": "ਆਪਣੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰੋ",
+    "step2Title": "ਸਕੀਮਾਂ ਲੱਭੋ",
+    "step3Title": "ਸਮਝੋ ਅਤੇ ਅਰਜ਼ੀ ਦਿਓ"
+  },
+  "discover": {
+    "title": "ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਸਾਂਝੀ ਕਰੋ",
+    "subtitle": "ਸਾਰੇ ਖੇਤਰ ਵਿਕਲਪਿਕ ਹਨ। ਕੋਈ ਵੀ ਸਵਾਲ ਛੱਡਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+    "safetyNotice": "ਗੋਪਨੀਯਤਾ ਸੂਚਨਾ: ਇੱਥੇ ਕਦੇ ਵੀ ਆਧਾਰ, ਪੈਨ, OTP ਜਾਂ ਬੈਂਕ ਖਾਤਾ ਵੇਰਵੇ ਦਰਜ ਨਾ ਕਰੋ।",
+    "stateLabel": "ਰਾਜ / ਕੇਂਦਰ ਸ਼ਾਸਿਤ ਪ੍ਰਦੇਸ਼",
+    "ageLabel": "ਉਮਰ (ਸਾਲ)",
+    "genderLabel": "ਲਿੰਗ (ਵਿਕਲਪਿਕ)",
+    "genderFemale": "ਮਹਿਲਾ",
+    "genderMale": "ਪੁਰਸ਼",
+    "genderOther": "ਹੋਰ",
+    "casteLabel": "ਸਮਾਜਿਕ ਵਰਗ",
+    "incomeLabel": "ਅਨੁਮਾਨਿਤ ਸਾਲਾਨਾ ਪਰਿਵਾਰਕ ਆਮਦਨ",
+    "occupationLabel": "ਮੁੱਖ ਕਿੱਤਾ",
+    "togglesLabel": "ਵਾਧੂ ਜਾਣਕਾਰੀ (ਵਿਕਲਪਿਕ)",
+    "submit": "ਸਕੀਮਾਂ ਖੋਜੋ",
+    "clear": "ਮੇਰੇ ਜਵਾਬ ਸਾਫ਼ ਕਰੋ"
+  },
+  "results": {
+    "title": "ਤੁਹਾਡੇ ਲਈ ਢੁਕਵੀਆਂ ਸਕੀਮਾਂ",
+    "editProfile": "ਪ੍ਰੋਫਾਈਲ ਬਦਲੋ",
+    "browseAll": "ਸਾਰੀਆਂ ਸਕੀਮਾਂ",
+    "whyMatched": "ਇਹ ਕਿਉਂ ਮੇਲ ਖਾਂਦੀ ਹੈ",
+    "couldNotConfirm": "ਜਿਸ ਦੀ ਪੁਸ਼ਟੀ ਨਹੀਂ ਹੋ ਸਕੀ",
+    "confidenceLikely": "ਸੰਭਾਵਿਤ",
+    "confidencePossible": "ਸੰਭਾਵਨਾ ਹੈ",
+    "confidenceCheck": "ਯੋਗਤਾ ਜਾਂਚੋ",
+    "resetFilters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ"
+  },
+  "schemes": {
+    "title": "ਸਾਰੀਆਂ ਸਰਕਾਰੀ ਸਕੀਮਾਂ",
+    "searchPlaceholder": "ਸਕੀਮ ਜਾਂ ਸ਼ਬਦ ਖੋਜੋ...",
+    "showDetails": "ਯੋਗਤਾ ਅਤੇ ਕਦਮ ਦੇਖੋ",
+    "hideDetails": "ਵੇਰਵੇ ਲੁਕਾਓ"
+  },
+  "assistant": {
+    "title": "ਸਕੀਮ ਸਹਾਇਕ",
+    "privacyNote": "ਆਧਾਰ, ਪੈਨ, OTP ਜਾਂ ਬੈਂਕ ਵੇਰਵੇ ਦਰਜ ਨਾ ਕਰੋ।",
+    "clearChat": "ਚੈਟ ਸਾਫ਼ ਕਰੋ",
+    "placeholder": "ਯੋਗਤਾ, ਲਾਭ ਜਾਂ ਅਰਜ਼ੀ ਪ੍ਰਕਿਰਿਆ ਬਾਰੇ ਪੁੱਛੋ...",
+    "send": "ਭੇਜੋ"
+  }
+}

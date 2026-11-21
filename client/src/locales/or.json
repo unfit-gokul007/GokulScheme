@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "ଓଡ଼ିଆ (Odia)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "ମୁଖ୍ୟ ବିଷୟବସ୍ତୁକୁ ଯାଆନ୍ତୁ",
+    "footerDisclaimer": "ଏହା ଏକ ସ୍ୱାଧୀନ ସୂଚନା ସେବା, ସରକାରୀ ୱେବସାଇଟ୍ ନୁହେଁ। ଫଳାଫଳ କେବଳ ଅନୁମାନ; ଚୂଡ଼ାନ୍ତ ନିଷ୍ପତ୍ତି ସମ୍ପୃକ୍ତ ସରକାରୀ ବିଭାଗ ନେବ।",
+    "unverifiedTranslation": "ଅଯାଚିତ ଅନୁବାଦ",
+    "loading": "ଯୋଜନା ଲୋଡ୍ ହେଉଛି...",
+    "retry": "ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ",
+    "skip": "ଛାଡ଼ନ୍ତୁ",
+    "preferNotToSay": "କହିବାକୁ ଚାହୁଁନାହିଁ",
+    "all": "ସବୁ",
+    "central": "କେନ୍ଦ୍ର ସରକାର",
+    "state": "ରାଜ୍ୟ ସରକାର",
+    "verifiedOfficial": "ସରକାରୀ ଉତ୍ସ ଯାଞ୍ଚ ହୋଇଛି",
+    "lastVerified": "ଶେଷ ଯାଞ୍ଚ",
+    "officialSources": "ସରକାରୀ ଲିଙ୍କ୍"
+  },
+  "nav": {
+    "home": "ହୋମ୍",
+    "discover": "ଖୋଜନ୍ତୁ",
+    "results": "ଫଳାଫଳ",
+    "schemes": "ସବୁ ଯୋଜନା",
+    "assistant": "AI ସହାୟକ",
+    "about": "ବିଷୟରେ",
+    "language": "ଭାଷା"
+  },
+  "hero": {
+    "title": "ସରକାରୀ ଯୋଜନା ଖୋଜନ୍ତୁ। ଆପଣଙ୍କ ସୁବିଧା ପାଆନ୍ତୁ।",
+    "subtitle": "କେନ୍ଦ୍ର ଓ ରାଜ୍ୟ କଲ୍ୟାଣ ଯୋଜନା, ସମ୍ଭାବ୍ୟ ଯୋଗ୍ୟତା ଏବଂ ଆବେଦନ ପ୍ରକ୍ରିୟା ଜାଣନ୍ତୁ — ମାଗଣା, ଗୋପନୀୟ ଏବଂ ଲଗଇନ୍ ବିନା।",
+    "cta": "ମୋ ଯୋଜନା ଖୋଜନ୍ତୁ",
+    "secondaryCta": "ସବୁ ଯୋଜନା ଦେଖନ୍ତୁ"
+  },
+  "categories": {
+    "heading": "ବର୍ଗ ଅନୁଯାୟୀ ଦେଖନ୍ତୁ",
+    "Agriculture": "କୃଷି",
+    "Education": "ଶିକ୍ଷା",
+    "Healthcare": "ସ୍ୱାସ୍ଥ୍ୟସେବା",
+    "Employment": "ନିଯୁକ୍ତି",
+    "Women & Children": "ମହିଳା ଓ ଶିଶୁ",
+    "Housing": "ଆବାସ"
+  },
+  "steps": {
+    "heading": "ଏହା କିପରି କାମ କରେ",
+    "step1Title": "ତଥ୍ୟ ଦିଅନ୍ତୁ",
+    "step2Title": "ଯୋଜନା ଖୋଜନ୍ତୁ",
+    "step3Title": "ବୁଝି ଆବେଦନ କରନ୍ତୁ"
+  },
+  "discover": {
+    "title": "ଆପଣଙ୍କ ପ୍ରୋଫାଇଲ୍ ଦିଅନ୍ତୁ",
+    "subtitle": "ସମସ୍ତ ତଥ୍ୟ ଇଚ୍ଛାଧୀନ। ଯେକୌଣସି ପ୍ରଶ୍ନ ଛାଡ଼ିପାରିବେ।",
+    "safetyNotice": "ଗୋପନୀୟତା ସୂଚନା: ଏଠାରେ କେବେ ବି ଆଧାର, ପାନ୍, OTP କିମ୍ବା ବ୍ୟାଙ୍କ ଖାତା ନମ୍ବର ଦିଅନ୍ତୁ ନାହିଁ।",
+    "stateLabel": "ରାଜ୍ୟ / କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ",
+    "ageLabel": "ବୟସ (ବର୍ଷ)",
+    "genderLabel": "ଲିଙ୍ଗ (ଇଚ୍ଛାଧୀନ)",
+    "genderFemale": "ମହିଳା",
+    "genderMale": "ପୁରୁଷ",
+    "genderOther": "ଅନ୍ୟାନ୍ୟ",
+    "casteLabel": "ସାମାଜିକ ବର୍ଗ",
+    "incomeLabel": "ଆନୁମାନିକ ବାର୍ଷିକ ପାରିବାରିକ ଆୟ",
+    "occupationLabel": "ମୁଖ୍ୟ ବୃତ୍ତି",
+    "togglesLabel": "ଅତିରିକ୍ତ ସୂଚନା (ଇଚ୍ଛାଧୀନ)",
+    "submit": "ଯୋଜନା ଖୋଜନ୍ତୁ",
+    "clear": "ଉତ୍ତର ସଫା କରନ୍ତୁ"
+  },
+  "results": {
+    "title": "ଆପଣଙ୍କ ପାଇଁ ଉପଯୁକ୍ତ ଯୋଜନା",
+    "editProfile": "ପ୍ରୋଫାଇଲ୍ ବଦଳାନ୍ତୁ",
+    "browseAll": "ସବୁ ଯୋଜନା",
+    "whyMatched": "କାହିଁକି ମେଳ ଖାଉଛି",
+    "couldNotConfirm": "ଯାହା ନିଶ୍ଚିତ ହୋଇପାରିଲା ନାହିଁ",
+    "confidenceLikely": "ସମ୍ଭାବ୍ୟ",
+    "confidencePossible": "ସମ୍ଭାବନା ଅଛି",
+    "confidenceCheck": "ଯୋଗ୍ୟତା ଯାଞ୍ଚ କରନ୍ତୁ",
+    "resetFilters": "ଫିଲ୍ଟର୍ ରିସେଟ୍ କରନ୍ତୁ"
+  },
+  "schemes": {
+    "title": "ସମସ୍ତ ସରକାରୀ ଯୋଜନା",
+    "searchPlaceholder": "ଯୋଜନା କିମ୍ବା ଶବ୍ଦ ଖୋଜନ୍ତୁ...",
+    "showDetails": "ଯୋଗ୍ୟତା ଓ ପଦକ୍ଷେପ ଦେଖନ୍ତୁ",
+    "hideDetails": "ବିବରଣୀ ଲୁଚାନ୍ତୁ"
+  },
+  "assistant": {
+    "title": "ଯୋଜନା ସହାୟକ",
+    "privacyNote": "ଆଧାର, ପାନ୍, OTP କିମ୍ବା ବ୍ୟାଙ୍କ ତଥ୍ୟ ଦିଅନ୍ତୁ ନାହିଁ।",
+    "clearChat": "ଚାଟ୍ ସଫା କରନ୍ତୁ",
+    "placeholder": "ଯୋଗ୍ୟତା, ସୁବିଧା କିମ୍ବା ଆବେଦନ ପ୍ରକ୍ରିୟା ପଚାରନ୍ତୁ...",
+    "send": "ପଠାନ୍ତୁ"
+  }
+}

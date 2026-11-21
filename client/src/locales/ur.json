@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "اردو (Urdu)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "مرکزی مواد پر جائیں",
+    "footerDisclaimer": "یہ ایک آزاد معلوماتی سروس ہے، سرکاری ویب سائٹ نہیں۔ نتائج صرف اندازے ہیں؛ حتمی فیصلہ متعلقہ سرکاری محکمہ کرتا ہے۔",
+    "unverifiedTranslation": "غیر تصدیق شدہ ترجمہ",
+    "loading": "اسکیمیں لوڈ ہو رہی ہیں...",
+    "retry": "دوبارہ کوشش کریں",
+    "skip": "چھوڑیں",
+    "preferNotToSay": "بتانا نہیں چاہتے",
+    "all": "سب",
+    "central": "مرکزی حکومت",
+    "state": "ریاستی حکومت",
+    "verifiedOfficial": "سرکاری ماخذ سے تصدیق شدہ",
+    "lastVerified": "آخری تصدیق",
+    "officialSources": "سرکاری پورٹل لنکس"
+  },
+  "nav": {
+    "home": "ہوم",
+    "discover": "تلاش کریں",
+    "results": "نتائج",
+    "schemes": "تمام اسکیمیں",
+    "assistant": "AI معاون",
+    "about": "تعارف",
+    "language": "زبان"
+  },
+  "hero": {
+    "title": "سرکاری اسکیمیں دریافت کریں۔ اپنے فوائد جانیں۔",
+    "subtitle": "مرکزی اور ریاستی فلاحی اسکیمیں، ممکنہ اہلیت اور درخواست کے مراحل سمجھیں — مفت، نجی اور لاگ ان کے بغیر۔",
+    "cta": "میری اسکیمیں تلاش کریں",
+    "secondaryCta": "تمام اسکیمیں دیکھیں"
+  },
+  "categories": {
+    "heading": "زمرے کے لحاظ سے دیکھیں",
+    "Agriculture": "زراعت",
+    "Education": "تعلیم",
+    "Healthcare": "صحت",
+    "Employment": "روزگار",
+    "Women & Children": "خواتین و اطفال",
+    "Housing": "رہائش"
+  },
+  "steps": {
+    "heading": "یہ کیسے کام کرتا ہے",
+    "step1Title": "اپنی تفصیلات بتائیں",
+    "step2Title": "اسکیمیں تلاش کریں",
+    "step3Title": "سمجھیں اور درخواست دیں"
+  },
+  "discover": {
+    "title": "اپنا پروفائل بتائیں",
+    "subtitle": "تمام خانے اختیاری ہیں۔ آپ کوئی بھی سوال چھوڑ سکتے ہیں۔",
+    "safetyNotice": "رازداری کا انتباہ: یہاں کبھی آدھار، پین، OTP یا بینک اکاؤنٹ کی تفصیلات درج نہ کریں۔",
+    "stateLabel": "ریاست / مرکز کے زیر انتظام علاقہ",
+    "ageLabel": "عمر (سال)",
+    "genderLabel": "جنس (اختیاری)",
+    "genderFemale": "خاتون",
+    "genderMale": "مرد",
+    "genderOther": "دیگر",
+    "casteLabel": "سماجی زمرہ",
+    "incomeLabel": "اندازاً سالانہ خاندانی آمدنی",
+    "occupationLabel": "بنیادی پیشہ",
+    "togglesLabel": "اضافی تفصیلات (اختیاری)",
+    "submit": "اسکیمیں تلاش کریں",
+    "clear": "میرے جوابات صاف کریں"
+  },
+  "results": {
+    "title": "آپ کے لیے موزوں اسکیمیں",
+    "editProfile": "پروفائل تبدیل کریں",
+    "browseAll": "تمام اسکیمیں",
+    "whyMatched": "یہ کیوں موزوں ہے",
+    "couldNotConfirm": "جس کی تصدیق نہیں ہو سکی",
+    "confidenceLikely": "ممکنہ طور پر اہل",
+    "confidencePossible": "امکان ہے",
+    "confidenceCheck": "اہلیت چیک کریں",
+    "resetFilters": "فلٹرز ری سیٹ کریں"
+  },
+  "schemes": {
+    "title": "تمام سرکاری اسکیمیں",
+    "searchPlaceholder": "اسکیم یا الفاظ تلاش کریں...",
+    "showDetails": "اہلیت اور مراحل دیکھیں",
+    "hideDetails": "تفصیلات چھپائیں"
+  },
+  "assistant": {
+    "title": "اسکیم معاون",
+    "privacyNote": "آدھار، پین، OTP یا بینک تفصیلات درج نہ کریں۔",
+    "clearChat": "چیٹ صاف کریں",
+    "placeholder": "اہلیت، فوائد یا درخواست کے طریقے کے بارے میں پوچھیں...",
+    "send": "بھیجیں"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "ગુજરાતી (Gujarati)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "મુખ્ય સામગ્રી પર જાઓ",
+    "footerDisclaimer": "આ એક સ્વતંત્ર માહિતી સેવા છે, સરકારી વેબસાઇટ નથી. પરિણામો માત્ર અંદાજો છે; અંતિમ નિર્ણય સંબંધિત સરકારી વિભાગ લે છે.",
+    "unverifiedTranslation": "અપ્રમાણિત અનુવાદ",
+    "loading": "યોજનાઓ લોડ થઈ રહી છે...",
+    "retry": "ફરી પ્રયાસ કરો",
+    "skip": "છોડો",
+    "preferNotToSay": "કહેવા માંગતા નથી",
+    "all": "બધા",
+    "central": "કેન્દ્ર સરકાર",
+    "state": "રાજ્ય સરકાર",
+    "verifiedOfficial": "સત્તાવાર સ્ત્રોત ચકાસાયેલ",
+    "lastVerified": "છેલ્લી ચકાસણી",
+    "officialSources": "સત્તાવાર લિંક્સ"
+  },
+  "nav": {
+    "home": "હોમ",
+    "discover": "શોધો",
+    "results": "પરિણામો",
+    "schemes": "બધી યોજનાઓ",
+    "assistant": "AI સહાયક",
+    "about": "વિશે",
+    "language": "ભાષા"
+  },
+  "hero": {
+    "title": "સરકારી યોજનાઓ શોધો. તમારા લાભો મેળવો.",
+    "subtitle": "કેન્દ્ર અને રાજ્ય કલ્યાણ યોજનાઓ, સંભવિત પાત્રતા અને અરજીના પગલાં જાણો — મફત, ખાનગી અને લોગિન વગર.",
+    "cta": "મારી યોજનાઓ શોધો",
+    "secondaryCta": "બધી યોજનાઓ જુઓ"
+  },
+  "categories": {
+    "heading": "શ્રેણી મુજબ જુઓ",
+    "Agriculture": "ખેતીવાડી",
+    "Education": "શિક્ષણ",
+    "Healthcare": "આરોગ્ય",
+    "Employment": "રોજગાર",
+    "Women & Children": "મહિલા અને બાળ વિકાસ",
+    "Housing": "આવાસ"
+  },
+  "steps": {
+    "heading": "તે કેવી રીતે કામ કરે છે",
+    "step1Title": "તમારી વિગતો શેર કરો",
+    "step2Title": "યોજનાઓ શોધો",
+    "step3Title": "સમજો અને અરજી કરો"
+  },
+  "discover": {
+    "title": "તમારી પ્રોફાઇલ શેર કરો",
+    "subtitle": "બધા ક્ષેત્રો વૈકલ્પિક છે. કોઈપણ પ્રશ્ન છોડી શકો છો.",
+    "safetyNotice": "ગોપનીયતા સૂચના: અહીં ક્યારેય આધાર, પાન, OTP અથવા બેંક ખાતાની વિગતો દાખલ કરશો નહીં.",
+    "stateLabel": "રાજ્ય / કેન્દ્રશાસિત પ્રદેશ",
+    "ageLabel": "ઉંમર (વર્ષ)",
+    "genderLabel": "જાતિ (વૈકલ્પિક)",
+    "genderFemale": "સ્ત્રી",
+    "genderMale": "પુરુષ",
+    "genderOther": "અન્ય",
+    "casteLabel": "સામાજિક વર્ગ",
+    "incomeLabel": "અંદાજિત વાર્ષિક કૌટુંબિક આવક",
+    "occupationLabel": "મુખ્ય વ્યવસાય",
+    "togglesLabel": "વધારાની વિગતો (વૈકલ્પિક)",
+    "submit": "યોજનાઓ શોધો",
+    "clear": "મારા જવાબો સાફ કરો"
+  },
+  "results": {
+    "title": "તમારી યોજનાની પસંદગી",
+    "editProfile": "પ્રોફાઇલ બદલો",
+    "browseAll": "બધી યોજનાઓ",
+    "whyMatched": "શા માટે મેળ ખાય છે",
+    "couldNotConfirm": "જેની ખાતરી થઈ શકી નથી",
+    "confidenceLikely": "સંભવિત",
+    "confidencePossible": "શક્યતા છે",
+    "confidenceCheck": "પાત્રતા તપાસો",
+    "resetFilters": "ફિલ્ટર રીસેટ કરો"
+  },
+  "schemes": {
+    "title": "બધી સરકારી યોજનાઓ",
+    "searchPlaceholder": "યોજના અથવા શબ્દો શોધો...",
+    "showDetails": "પાત્રતા અને પગલાં જુઓ",
+    "hideDetails": "વિગતો છુપાવો"
+  },
+  "assistant": {
+    "title": "યોજના સહાયક",
+    "privacyNote": "આધાર, પાન, OTP અથવા બેંક વિગતો દાખલ કરશો નહીં.",
+    "clearChat": "ચેટ સાફ કરો",
+    "placeholder": "પાત્રતા, લાભો અથવા અરજી પ્રક્રિયા વિશે પૂછો...",
+    "send": "મોકલો"
+  }
+}

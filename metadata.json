@@ -1,0 +1,8 @@
+{
+  "name": "GokulScheme AI",
+  "description": "Free, no-login Indian government scheme discovery, eligibility guidance, and grounded AI assistant in 23 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

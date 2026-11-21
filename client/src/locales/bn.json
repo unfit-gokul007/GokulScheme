@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "status": "unverified",
+    "language": "বাংলা (Bengali)",
+    "note": "Machine-assisted translation; verify official details on government portals."
+  },
+  "common": {
+    "brand": "GokulScheme AI",
+    "skipToContent": "মূল বিষয়বস্তুতে যান",
+    "footerDisclaimer": "এটি একটি স্বাধীন তথ্য পরিষেবা, সরকারি ওয়েবসাইট নয়। ফলাফল শুধুমাত্র অনুমান; চূড়ান্ত সিদ্ধান্ত সংশ্লিষ্ট সরকারি দপ্তর নেবে।",
+    "unverifiedTranslation": "অযাচাইকৃত অনুবাদ",
+    "loading": "প্রকল্প লোড হচ্ছে...",
+    "retry": "আবার চেষ্টা করুন",
+    "skip": "এড়িয়ে যান",
+    "preferNotToSay": "বলতে চাই না",
+    "all": "সব",
+    "central": "কেন্দ্রীয় সরকার",
+    "state": "রাজ্য সরকার",
+    "verifiedOfficial": "সরকারি উৎস যাচাইকৃত",
+    "lastVerified": "সর্বশেষ যাচাই",
+    "officialSources": "সরকারি পোর্টাল লিঙ্ক"
+  },
+  "nav": {
+    "home": "হোম",
+    "discover": "খুঁজুন",
+    "results": "ফলাফল",
+    "schemes": "সব প্রকল্প",
+    "assistant": "AI সহায়ক",
+    "about": "সম্পর্কে",
+    "language": "ভাষা"
+  },
+  "hero": {
+    "title": "সরকারি প্রকল্প খুঁজুন। আপনার সুবিধা বুঝুন।",
+    "subtitle": "কেন্দ্রীয় ও রাজ্য কল্যাণ প্রকল্প, সম্ভাব্য যোগ্যতা এবং আবেদনের ধাপ জানুন — বিনামূল্যে, ব্যক্তিগতভাবে ও লগইন ছাড়াই।",
+    "cta": "আমার প্রকল্প খুঁজুন",
+    "secondaryCta": "সব প্রকল্প দেখুন"
+  },
+  "categories": {
+    "heading": "বিভাগ অনুযায়ী দেখুন",
+    "Agriculture": "কৃষি",
+    "Education": "শিক্ষা",
+    "Healthcare": "স্বাস্থ্যসেবা",
+    "Employment": "কর্মসংস্থান",
+    "Women & Children": "নারী ও শিশু",
+    "Housing": "আবাসন"
+  },
+  "steps": {
+    "heading": "কীভাবে কাজ করে",
+    "step1Title": "তথ্য দিন",
+    "step2Title": "প্রকল্প খুঁজুন",
+    "step3Title": "বুঝে আবেদন করুন"
+  },
+  "discover": {
+    "title": "আপনার প্রোফাইল দিন",
+    "subtitle": "সব তথ্য ঐচ্ছিক। যেকোনো প্রশ্ন এড়িয়ে যেতে পারেন।",
+    "safetyNotice": "গোপনীয়তা সতর্কতা: এখানে কখনো আধার, প্যান, OTP বা ব্যাংক অ্যাকাউন্ট নম্বর দেবেন না।",
+    "stateLabel": "রাজ্য / কেন্দ্রশাসিত অঞ্চল",
+    "ageLabel": "বয়স (বছর)",
+    "genderLabel": "লিঙ্গ (ঐচ্ছিক)",
+    "genderFemale": "মহিলা",
+    "genderMale": "পুরুষ",
+    "genderOther": "অন্যান্য",
+    "casteLabel": "সামাজিক শ্রেণি",
+    "incomeLabel": "আনুমানিক বার্ষিক পারিবারিক আয়",
+    "occupationLabel": "প্রধান পেশা",
+    "togglesLabel": "অতিরিক্ত পারিবারিক তথ্য (ঐচ্ছিক)",
+    "submit": "প্রকল্প খুঁজুন",
+    "clear": "উত্তর মুছে ফেলুন"
+  },
+  "results": {
+    "title": "আপনার জন্য সম্ভাব্য প্রকল্প",
+    "editProfile": "প্রোফাইল পরিবর্তন",
+    "browseAll": "সব প্রকল্প দেখুন",
+    "whyMatched": "কেন মিলেছে",
+    "couldNotConfirm": "যা নিশ্চিত করা যায়নি",
+    "confidenceLikely": "সম্ভাব্য যোগ্য",
+    "confidencePossible": "সম্ভাবনা আছে",
+    "confidenceCheck": "যোগ্যতা যাচাই করুন",
+    "resetFilters": "ফিল্টার রিসেট করুন"
+  },
+  "schemes": {
+    "title": "সব সরকারি প্রকল্প",
+    "searchPlaceholder": "প্রকল্প বা কীওয়ার্ড খুঁজুন...",
+    "showDetails": "যোগ্যতা ও ধাপ দেখুন",
+    "hideDetails": "বিস্তারিত লুকান"
+  },
+  "assistant": {
+    "title": "প্রকল্প সহায়ক",
+    "privacyNote": "আধার, প্যান, OTP বা ব্যাংক তথ্য দেবেন না।",
+    "clearChat": "চ্যাট মুছুন",
+    "placeholder": "যোগ্যতা, সুবিধা বা আবেদন পদ্ধতি সম্পর্কে জিজ্ঞাসা করুন...",
+    "send": "পাঠান"
+  }
+}
